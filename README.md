@@ -10,9 +10,7 @@
 
 ## 视频
 
-<video id="video" controls="" preload="none">
-	<source id="mp4" src="https://youtu.be/clMiPO5G_HM" type="video/mp4">
-</video>
+[![WebSSH](images/10.png)](http://youtu.be/vt5fpE0bzSY)
 
 ## 文章
 
