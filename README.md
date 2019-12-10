@@ -10,9 +10,7 @@
 
 ## 视频
 
-<video id="video" controls="" preload="none">
-	<source id="mp4" src="images/webssh.mp4" type="video/mp4">
-</video>
+[![WebSSH](images/00.png)](images/webssh.mp4)
 
 ## 文章
 
