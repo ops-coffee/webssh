@@ -10,7 +10,7 @@
 
 ## 视频
 
-[![WebSSH](images/00.png)](images/webssh.mp4)
+[![WebSSH](images/00.png)](https://youtu.be/clMiPO5G_HM)
 
 ## 文章
 
