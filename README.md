@@ -6,7 +6,7 @@
 
 ## 主页
 
-[https://ops-coffee.cn/webssh](https://ops-coffee.cn/webssh)
+[https://blog.ops-coffee.cn/webssh](https://blog.ops-coffee.cn/webssh)
 
 ## 视频
 
@@ -14,12 +14,12 @@
 
 ## 文章
 
-- [Django实现WebSSH操作Kubernetes Pod](https://ops-coffee.cn/s/FHDyvHsh-oO1cn7AXk_4WA)
-- [Kubernetes WebSSH终端窗口自适应Resize](https://ops-coffee.cn/s/4jE9hivFG4GmbIA4kKq7Wg)
-- [Django实现WebSSH操作物理机或虚拟机](https://ops-coffee.cn/s/a3eJjVTtuUjzwyk21nTBqQ)
-- [堡垒机的核心武器：WebSSH录像实现](https://ops-coffee.cn/s/XBKEfJKaucTFFcj-cS95LQ)
-- [堡垒机WebSSH进阶之实时监控和强制下线](https://ops-coffee.cn/s/GXhkc8rBHhjjf_wHxd7j3w)
-- [WebSSH画龙点睛之lrzsz上传下载文件](https://ops-coffee.cn/s/poC2i859LQwIY1USq2Rfjw)
+- [Django实现WebSSH操作Kubernetes Pod](https://blog.ops-coffee.cn/s/FHDyvHsh-oO1cn7AXk_4WA)
+- [Kubernetes WebSSH终端窗口自适应Resize](https://blog.ops-coffee.cn/s/4jE9hivFG4GmbIA4kKq7Wg)
+- [Django实现WebSSH操作物理机或虚拟机](https://blog.ops-coffee.cn/s/a3eJjVTtuUjzwyk21nTBqQ)
+- [堡垒机的核心武器：WebSSH录像实现](https://blog.ops-coffee.cn/s/XBKEfJKaucTFFcj-cS95LQ)
+- [堡垒机WebSSH进阶之实时监控和强制下线](https://blog.ops-coffee.cn/s/GXhkc8rBHhjjf_wHxd7j3w)
+- [WebSSH画龙点睛之lrzsz上传下载文件](https://blog.ops-coffee.cn/s/poC2i859LQwIY1USq2Rfjw)
 
 ## 功能
 
